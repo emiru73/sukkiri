@@ -4,3 +4,4 @@ bmi = weight / height / height
 print('BMIは{}です'.format(bmi))
 
 print(f'BMIは{bmi}です')
+print('BMI')
